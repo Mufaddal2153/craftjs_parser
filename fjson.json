@@ -1,0 +1,1994 @@
+{
+    "ROOT": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#F1F3F5",
+            "padding": 2,
+            "paddingLeft": 5,
+            "paddingRight": 5,
+            "paddingBottom": 5,
+            "paddingTop": 5,
+            "data-cy": "root-container"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "hidden": false,
+        "nodes": [
+            "Tm1afBusZ5",
+            "U6GiPSdhQB",
+            "V787SYjLh8",
+            "1_9seY20Ru",
+            "P7LNmav3T2",
+            "pSvdtPtprF",
+            "tnY1EmvPNQ",
+            "5bJL0-9bMj",
+            "1dLXJZgpHP",
+            "hs_EbrUbLr",
+            "CCC9rAYKbu",
+            "ypaYMzetKy",
+            "qkTdWfhkS9",
+            "e1sqlLWCcb",
+            "bmw63MxcCm"
+        ],
+        "linkedNodes": {}
+    },
+    "B1I9m_-Ih0": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffff",
+            "padding": 0,
+            "width": "100",
+            "data-cy": "frame-container"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "rvezXl8eQ2": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffff",
+            "padding": 0,
+            "box": "flex-row",
+            "width": "100",
+            "data-cy": "frame-container"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "5gtSxbebkv": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 20,
+            "width": "100"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "5ljHAdodl_"
+        ],
+        "linkedNodes": {}
+    },
+    "5ljHAdodl_": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#474747",
+            "padding": 1,
+            "width": "100",
+            "box": "flex-row"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "5gtSxbebkv",
+        "hidden": false,
+        "nodes": [
+            "bxVhBEmf1d",
+            "dg1-O_O-q5"
+        ],
+        "linkedNodes": {}
+    },
+    "bxVhBEmf1d": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 1,
+            "width": "100",
+            "justifyContent": "center",
+            "alignItems": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "5ljHAdodl_",
+        "hidden": false,
+        "nodes": [
+            "SN7YzZm-v2"
+        ],
+        "linkedNodes": {}
+    },
+    "SN7YzZm-v2": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "THE&nbsp;<br>GALLERY&nbsp;<br>SHOW",
+            "fontSize": 55,
+            "size": "small",
+            "data-cy": "frame-container-text",
+            "fontAlign": "left",
+            "fontStyle": "italic"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "bxVhBEmf1d",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "dg1-O_O-q5": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 10,
+            "width": "100"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "5ljHAdodl_",
+        "hidden": false,
+        "nodes": [
+            "wNL_b_z59p"
+        ],
+        "linkedNodes": {}
+    },
+    "wNL_b_z59p": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "https://images.unsplash.com/photo-1579567761406-4684ee0c75b6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+            "upload": "",
+            "alt": "Image",
+            "href": "#",
+            "objectType": "cover",
+            "width": "100",
+            "height": "350"
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "dg1-O_O-q5",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "WQ9NswnpTB": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 20,
+            "width": 11
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "rET7KbLyLn",
+        "hidden": false,
+        "nodes": [
+            "4Xz4CbHCf4"
+        ],
+        "linkedNodes": {}
+    },
+    "4Xz4CbHCf4": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "01",
+            "fontSize": 31
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "WQ9NswnpTB",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "NULLDWezwL": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#8a0f0f",
+            "padding": 0,
+            "width": "100",
+            "box": "flex-row"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "cc6NkxKACg",
+            "ZLLC2Cph27"
+        ],
+        "linkedNodes": {}
+    },
+    "cc6NkxKACg": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#eeee",
+            "padding": 1,
+            "width": "100"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "NULLDWezwL",
+        "hidden": false,
+        "nodes": [
+            "Z70HryTo7s"
+        ],
+        "linkedNodes": {}
+    },
+    "ZLLC2Cph27": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 1,
+            "width": "100",
+            "justifyContent": "center",
+            "alignItems": "end",
+            "box": "flex-col"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "NULLDWezwL",
+        "hidden": false,
+        "nodes": [
+            "9NauvXOXlO",
+            "vBBxZm8MTG"
+        ],
+        "linkedNodes": {}
+    },
+    "9NauvXOXlO": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "",
+            "fontSize": 20,
+            "size": "small",
+            "data-cy": "frame-container-text"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "ZLLC2Cph27",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "Z70HryTo7s": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "https://images.unsplash.com/photo-1546188994-07c34f6e5e1b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80",
+            "upload": "",
+            "alt": "Image",
+            "href": "#",
+            "objectType": "cover",
+            "width": "100",
+            "height": "245"
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "cc6NkxKACg",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "rET7KbLyLn": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 1,
+            "width": "100",
+            "justifyContent": "center",
+            "alignItems": "start"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "WQ9NswnpTB"
+        ],
+        "linkedNodes": {}
+    },
+    "vBBxZm8MTG": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "DIVE&nbsp;<br>INTO THE<br>FUTURE&nbsp;<br>OF&nbsp;<br>REALITY",
+            "fontSize": 31,
+            "fontStyle": "italic",
+            "fontAlign": "right"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "ZLLC2Cph27",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "JjYEwvt8Ah": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 1,
+            "width": "100",
+            "justifyContent": "center",
+            "alignItems": "end"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "dmdQkAlxrg"
+        ],
+        "linkedNodes": {}
+    },
+    "dmdQkAlxrg": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 20,
+            "width": 11,
+            "justifyContent": "center",
+            "alignItems": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "JjYEwvt8Ah",
+        "hidden": false,
+        "nodes": [
+            "iu6M-QJ2uF"
+        ],
+        "linkedNodes": {}
+    },
+    "iu6M-QJ2uF": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "02",
+            "fontSize": 31
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "dmdQkAlxrg",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "0u6dyKgla6": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 1,
+            "width": "100",
+            "box": "flex-row",
+            "justifyContent": "center",
+            "alignItems": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "kEpe-C9dWv",
+            "4gG6BDkU4J"
+        ],
+        "linkedNodes": {}
+    },
+    "4gG6BDkU4J": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "https://images.unsplash.com/photo-1485740112426-0c2549fa8c86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+            "upload": "",
+            "alt": "Image",
+            "href": "#",
+            "objectType": "cover",
+            "width": "100",
+            "height": "245"
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "0u6dyKgla6",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "kEpe-C9dWv": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "https://images.unsplash.com/photo-1496096265110-f83ad7f96608?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+            "upload": "",
+            "alt": "Image",
+            "href": "#",
+            "objectType": "cover",
+            "width": "100",
+            "height": "350"
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "0u6dyKgla6",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "nTABiOYUk_": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 1,
+            "width": "100",
+            "box": "flex-row",
+            "justifyContent": "center",
+            "alignItems": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "1e58jYT5GF",
+            "EOeezCaScI"
+        ],
+        "linkedNodes": {}
+    },
+    "EOeezCaScI": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "https://images.unsplash.com/photo-1568952433726-3896e3881c65?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+            "upload": "",
+            "alt": "Image",
+            "href": "#",
+            "objectType": "cover",
+            "width": "100",
+            "height": "350"
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "nTABiOYUk_",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "1e58jYT5GF": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "https://images.unsplash.com/photo-1523961131990-5ea7c61b2107?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1374&q=80",
+            "upload": "",
+            "alt": "Image",
+            "href": "#",
+            "objectType": "cover",
+            "width": "100",
+            "height": "245"
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "nTABiOYUk_",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "zviIhqqNQ7": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 1,
+            "width": "100",
+            "justifyContent": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "ko2pHhZN3X"
+        ],
+        "linkedNodes": {}
+    },
+    "ko2pHhZN3X": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 20,
+            "width": 11,
+            "justifyContent": "center",
+            "alignItems": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "zviIhqqNQ7",
+        "hidden": false,
+        "nodes": [
+            "VCamq6VvRG"
+        ],
+        "linkedNodes": {}
+    },
+    "VCamq6VvRG": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "03",
+            "fontSize": 31
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "ko2pHhZN3X",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "xk3t46e9L2": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 20,
+            "width": "100"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "XkU80vlJ28"
+        ],
+        "linkedNodes": {}
+    },
+    "XkU80vlJ28": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "https://images.unsplash.com/photo-1531297484001-80022131f5a1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1420&q=80",
+            "upload": "",
+            "alt": "Image",
+            "href": "#",
+            "objectType": "cover",
+            "width": "100",
+            "height": "350"
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "xk3t46e9L2",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "hs_EbrUbLr": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "data-cy": "frame-container"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "hyi1QqDfsa"
+        ],
+        "linkedNodes": {}
+    },
+    "hyi1QqDfsa": {
+        "type": {
+            "resolvedName": "Carousel"
+        },
+        "isCanvas": false,
+        "props": {
+            "height": "300",
+            "arrows": true,
+            "dots": false,
+            "autoplay": true,
+            "autoplaySpeed": 3000,
+            "infinite": true,
+            "speed": 800,
+            "slidesToShow": 1,
+            "slidesToScroll": 1,
+            "centerMode": false,
+            "centerPadding": "80px",
+            "imagedata": [
+                {
+                    "title": "Default Title 1",
+                    "text": "Default text 1",
+                    "imageUrl": "https://images.unsplash.com/photo-1694619361594-92128061b0a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+                },
+                {
+                    "title": "Default Title 2",
+                    "text": "Default text 2",
+                    "imageUrl": "https://images.unsplash.com/photo-1694380771466-4ba0258e0338?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+                },
+                {
+                    "title": "Default Title 3",
+                    "text": "Default text 3",
+                    "imageUrl": "https://images.unsplash.com/photo-1694384482912-8f8ed20e04a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80"
+                }
+            ],
+            "fade": false
+        },
+        "displayName": "Carousel",
+        "custom": {},
+        "parent": "hs_EbrUbLr",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "CCC9rAYKbu": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "data-cy": "frame-container"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "d3KkJGXNTl"
+        ],
+        "linkedNodes": {}
+    },
+    "d3KkJGXNTl": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "/_next/static/media/connecting_artworks.befe7e4d.svg",
+            "upload": "",
+            "alt": "Logo",
+            "href": "",
+            "objectType": "cover",
+            "width": "100",
+            "height": "245"
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "CCC9rAYKbu",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "ypaYMzetKy": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "box": "flex-row",
+            "width": "100",
+            "data-cy": "frame-container"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "ovhbxWeEQd",
+            "PKslwvcuhH"
+        ],
+        "linkedNodes": {}
+    },
+    "ovhbxWeEQd": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "data-cy": "frame-container"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ypaYMzetKy",
+        "hidden": false,
+        "nodes": [
+            "frDVAd_xdW"
+        ],
+        "linkedNodes": {}
+    },
+    "frDVAd_xdW": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "/_next/static/media/connecting_artworks.befe7e4d.svg",
+            "upload": "",
+            "alt": "Logo",
+            "href": "",
+            "objectType": "cover",
+            "width": "100",
+            "height": "245"
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "ovhbxWeEQd",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "PKslwvcuhH": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "data-cy": "frame-container"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ypaYMzetKy",
+        "hidden": false,
+        "nodes": [
+            "eOiaPoqcr7",
+            "EGg-rlLhq7"
+        ],
+        "linkedNodes": {}
+    },
+    "eOiaPoqcr7": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "fontSize": 12,
+            "text": "Lorem Ipsum",
+            "data-cy": "frame-container-text"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "PKslwvcuhH",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "EGg-rlLhq7": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "fontSize": 15,
+            "text": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+            "data-cy": "frame-container-text"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "PKslwvcuhH",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "qkTdWfhkS9": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#FFFFFF",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": "100",
+            "box": "flex-col",
+            "alignItems": "center",
+            "justifyContent": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "jkkeept1dT",
+            "vu_el7nk7X",
+            "Tg2yKECSF0"
+        ],
+        "linkedNodes": {}
+    },
+    "jkkeept1dT": {
+        "type": {
+            "resolvedName": "Video"
+        },
+        "isCanvas": false,
+        "props": {
+            "VideoLink": "nGoSP3MBV2E",
+            "VideoHeight": "300",
+            "VideoWidth": "600"
+        },
+        "displayName": "Video",
+        "custom": {},
+        "parent": "qkTdWfhkS9",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "vu_el7nk7X": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "size": "small",
+            "textAlign": "center",
+            "fontSize": 12,
+            "text": "Heading here",
+            "data-cy": "frame-container-text",
+            "fontAlign": "center"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "qkTdWfhkS9",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "Tg2yKECSF0": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "fontSize": 12,
+            "textAlign": "center",
+            "text": "description here",
+            "data-cy": "frame-container-text",
+            "fontAlign": "center"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "qkTdWfhkS9",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "e1sqlLWCcb": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "box": "flex-col",
+            "justifyContent": "center",
+            "alignItems": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "c5SBK1Vetw",
+            "OzZO67aXz_"
+        ],
+        "linkedNodes": {}
+    },
+    "c5SBK1Vetw": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#eeee",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": "100"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "e1sqlLWCcb",
+        "hidden": false,
+        "nodes": [
+            "bzhtWpdrSX"
+        ],
+        "linkedNodes": {}
+    },
+    "bzhtWpdrSX": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "/_next/static/media/Toshi_banner.6ef77b05.svg",
+            "upload": "",
+            "alt": "Image",
+            "href": "#",
+            "objectType": "cover",
+            "width": "100",
+            "height": "245"
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "c5SBK1Vetw",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "OzZO67aXz_": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#eeee",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": "100",
+            "justifyContent": "center",
+            "alignItems": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "e1sqlLWCcb",
+        "hidden": false,
+        "nodes": [
+            "aWegVdjBhA",
+            "-dhZl5XOqp"
+        ],
+        "linkedNodes": {}
+    },
+    "aWegVdjBhA": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "fontSize": 12,
+            "text": "Title",
+            "fontAlign": "center",
+            "data-cy": "frame-container-text"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "OzZO67aXz_",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "-dhZl5XOqp": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "fontSize": 15,
+            "fontAlign": "center",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. ",
+            "data-cy": "frame-container-text"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "OzZO67aXz_",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "bmw63MxcCm": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffff",
+            "padding": 2,
+            "paddingLeft": 14,
+            "paddingRight": 14,
+            "paddingBottom": 14,
+            "paddingTop": 14,
+            "width": "100",
+            "data-cy": "frame-container",
+            "alignItems": "center",
+            "justifyContent": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "hi0RKzytgx",
+            "zc34GhlWGN",
+            "kHrNsTr2pB",
+            "DuQsjOr9ZQ",
+            "mnWK3zL7J6"
+        ],
+        "linkedNodes": {}
+    },
+    "hi0RKzytgx": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "/_next/static/media/connecting_artworks.befe7e4d.svg",
+            "upload": "",
+            "alt": "Logo",
+            "href": "",
+            "objectType": "cover",
+            "width": "100",
+            "height": "245"
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "bmw63MxcCm",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "zc34GhlWGN": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "fontSize": 12,
+            "text": "FAQ's",
+            "data-cy": "frame-container-text"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "bmw63MxcCm",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "kHrNsTr2pB": {
+        "type": {
+            "resolvedName": "DropDownItem"
+        },
+        "isCanvas": false,
+        "props": {
+            "text": "question no: 01",
+            "text2": "Answer",
+            "fontSize": 20,
+            "fontAlign": "left",
+            "data-cy": "frame-container-dropdownitem"
+        },
+        "displayName": "DropDownItem",
+        "custom": {},
+        "parent": "bmw63MxcCm",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "DuQsjOr9ZQ": {
+        "type": {
+            "resolvedName": "DropDownItem"
+        },
+        "isCanvas": false,
+        "props": {
+            "text": "question no: 02",
+            "text2": "Answer",
+            "fontSize": 20,
+            "fontAlign": "left",
+            "data-cy": "frame-container-dropdownitem"
+        },
+        "displayName": "DropDownItem",
+        "custom": {},
+        "parent": "bmw63MxcCm",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "mnWK3zL7J6": {
+        "type": {
+            "resolvedName": "DropDownItem"
+        },
+        "isCanvas": false,
+        "props": {
+            "text": "question no: 03",
+            "text2": "Answer",
+            "fontSize": 20,
+            "fontAlign": "left",
+            "data-cy": "frame-container-dropdownitem"
+        },
+        "displayName": "DropDownItem",
+        "custom": {},
+        "parent": "bmw63MxcCm",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "1dLXJZgpHP": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "Hi world",
+            "color": "#000000"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "P7LNmav3T2": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": "100",
+            "radius": 1
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "tnY1EmvPNQ": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffff",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": "100",
+            "box": "flex-col"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "eb6tTh9l4W",
+            "gCUGxsyYMK",
+            "6i-iWpt5Vl"
+        ],
+        "linkedNodes": {}
+    },
+    "eb6tTh9l4W": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#eeee",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": "100"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "tnY1EmvPNQ",
+        "hidden": false,
+        "nodes": [
+            "wpqaauEDj2",
+            "BNzBGUJOwj"
+        ],
+        "linkedNodes": {}
+    },
+    "wpqaauEDj2": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "size": "small",
+            "text": "Row-1",
+            "data-cy": "frame-container-text"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "eb6tTh9l4W",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "6i-iWpt5Vl": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#eeee",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": "100"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "tnY1EmvPNQ",
+        "hidden": false,
+        "nodes": [
+            "mam-wwod_X"
+        ],
+        "linkedNodes": {}
+    },
+    "mam-wwod_X": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "size": "small",
+            "text": "Row-2",
+            "data-cy": "frame-container-text"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "6i-iWpt5Vl",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "5bJL0-9bMj": {
+        "type": {
+            "resolvedName": "Button"
+        },
+        "isCanvas": false,
+        "props": {
+            "size": "sm",
+            "variant": "solid",
+            "color": "teal",
+            "text": "Click me",
+            "iconLeftOrRight": "rightIcon",
+            "buttonlogo": "fab fa-youtube",
+            "hovercolor": "#b84242"
+        },
+        "displayName": "Button",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "gCUGxsyYMK": {
+        "type": {
+            "resolvedName": "Video"
+        },
+        "isCanvas": false,
+        "props": {
+            "VideoLink": "nGoSP3MBV2E",
+            "VideoHeight": "500",
+            "VideoWidth": "700",
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "VideoID": "wI2vqXsjsIo"
+        },
+        "displayName": "Video",
+        "custom": {},
+        "parent": "tnY1EmvPNQ",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "BNzBGUJOwj": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "https://images.unsplash.com/photo-1518563077661-23ad56581d77?q=80&w=1172&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+            "upload": "",
+            "alt": "image",
+            "href": "#",
+            "objectType": "cover",
+            "width": "100",
+            "height": "245",
+            "opacity": 1
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "eb6tTh9l4W",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "pSvdtPtprF": {
+        "type": {
+            "resolvedName": "DropDownItem"
+        },
+        "isCanvas": false,
+        "props": {
+            "text": "Hi world",
+            "text2": "Hi world",
+            "fontSize": 20,
+            "fontAlign": "left"
+        },
+        "displayName": "DropDownItem",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "1_9seY20Ru": {
+        "type": {
+            "resolvedName": "Carousel"
+        },
+        "isCanvas": false,
+        "props": {
+            "height": "300",
+            "arrows": true,
+            "dots": false,
+            "autoplay": true,
+            "autoplaySpeed": 3000,
+            "infinite": true,
+            "speed": 800,
+            "slidesToShow": 1,
+            "slidesToScroll": 1,
+            "centerMode": false,
+            "centerPadding": "80px",
+            "imagedata": [
+                {
+                    "title": "Default Title 1",
+                    "text": "Default text 1",
+                    "imageUrl": "https://images.unsplash.com/photo-1694619361594-92128061b0a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+                },
+                {
+                    "title": "Default Title 2",
+                    "text": "Default text 2",
+                    "imageUrl": "https://images.unsplash.com/photo-1694380771466-4ba0258e0338?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80"
+                },
+                {
+                    "title": "Default Title 3",
+                    "text": "Default text 3",
+                    "imageUrl": "https://images.unsplash.com/photo-1694384482912-8f8ed20e04a0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80"
+                }
+            ],
+            "fade": false
+        },
+        "displayName": "Carousel",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "V787SYjLh8": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#e0e0e0",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": "100",
+            "box": "flex-row"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "WYru2rq_HP",
+            "nrteaEsAgP",
+            "RsbfFhCEC7"
+        ],
+        "linkedNodes": {}
+    },
+    "WYru2rq_HP": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffff",
+            "padding": 2,
+            "width": "31",
+            "box": "flex-col",
+            "alignItems": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "V787SYjLh8",
+        "hidden": false,
+        "nodes": [
+            "m7i88aTN47",
+            "QuUCJPjdrn",
+            "OgTFBBMwJr"
+        ],
+        "linkedNodes": {}
+    },
+    "m7i88aTN47": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "upload": "",
+            "alt": "Image",
+            "href": "#",
+            "objectType": "cover",
+            "width": 100,
+            "height": 180
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "WYru2rq_HP",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "QuUCJPjdrn": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "fontSize": 10,
+            "fontAlign": "center",
+            "text": "Product Detail",
+            "data-cy": "frame-container-text"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "WYru2rq_HP",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "OgTFBBMwJr": {
+        "type": {
+            "resolvedName": "Button"
+        },
+        "isCanvas": false,
+        "props": {
+            "size": "sm",
+            "variant": "solid",
+            "color": "teal",
+            "text": "Click me",
+            "buttonlogo": "fas fa-cart-plus"
+        },
+        "displayName": "Button",
+        "custom": {},
+        "parent": "WYru2rq_HP",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "nrteaEsAgP": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffff",
+            "padding": 2,
+            "width": "31",
+            "box": "flex-col",
+            "alignItems": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "V787SYjLh8",
+        "hidden": false,
+        "nodes": [
+            "_1uL_CQwbU",
+            "2ifypqX657",
+            "4IkzgCi7jo"
+        ],
+        "linkedNodes": {}
+    },
+    "_1uL_CQwbU": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "upload": "",
+            "alt": "Image",
+            "href": "#",
+            "objectType": "cover",
+            "width": 100,
+            "height": 180
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "nrteaEsAgP",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "2ifypqX657": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "fontSize": 10,
+            "fontAlign": "center",
+            "text": "Product Detail",
+            "data-cy": "frame-container-text"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "nrteaEsAgP",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "4IkzgCi7jo": {
+        "type": {
+            "resolvedName": "Button"
+        },
+        "isCanvas": false,
+        "props": {
+            "size": "sm",
+            "variant": "solid",
+            "color": "teal",
+            "text": "Click me",
+            "buttonlogo": "fas fa-cart-plus"
+        },
+        "displayName": "Button",
+        "custom": {},
+        "parent": "nrteaEsAgP",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "RsbfFhCEC7": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffff",
+            "padding": 2,
+            "width": "31",
+            "box": "flex-col",
+            "alignItems": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "V787SYjLh8",
+        "hidden": false,
+        "nodes": [
+            "yvTMnHoy-g",
+            "ygLNPYltcu",
+            "yzCTveNJi1"
+        ],
+        "linkedNodes": {}
+    },
+    "yvTMnHoy-g": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "upload": "",
+            "alt": "Image",
+            "href": "#",
+            "objectType": "cover",
+            "width": 100,
+            "height": 180
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "RsbfFhCEC7",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "ygLNPYltcu": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "fontSize": 10,
+            "fontAlign": "center",
+            "text": "Product Detail",
+            "data-cy": "frame-container-text"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "RsbfFhCEC7",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "yzCTveNJi1": {
+        "type": {
+            "resolvedName": "Button"
+        },
+        "isCanvas": false,
+        "props": {
+            "size": "sm",
+            "variant": "solid",
+            "color": "teal",
+            "text": "Click me",
+            "buttonlogo": "fas fa-cart-plus"
+        },
+        "displayName": "Button",
+        "custom": {},
+        "parent": "RsbfFhCEC7",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "Tm1afBusZ5": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffff",
+            "padding": 0,
+            "width": "100",
+            "box": "flex-row",
+            "alignItems": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "d7VBFVbc6p",
+            "nDYrja6veY",
+            "eFoZ3zRH_Y",
+            "oGemW1nHpw"
+        ],
+        "linkedNodes": {}
+    },
+    "d7VBFVbc6p": {
+        "type": {
+            "resolvedName": "Icon"
+        },
+        "isCanvas": false,
+        "props": {
+            "iconsize": "2",
+            "color": "#FDFDFD",
+            "iconlogo": "fa-brands fa-youtube"
+        },
+        "displayName": "Icon",
+        "custom": {},
+        "parent": "Tm1afBusZ5",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "nDYrja6veY": {
+        "type": {
+            "resolvedName": "Icon"
+        },
+        "isCanvas": false,
+        "props": {
+            "iconsize": "2",
+            "color": "#FDFDFD",
+            "iconlogo": "fa-brands fa-linkedin"
+        },
+        "displayName": "Icon",
+        "custom": {},
+        "parent": "Tm1afBusZ5",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "eFoZ3zRH_Y": {
+        "type": {
+            "resolvedName": "Icon"
+        },
+        "isCanvas": false,
+        "props": {
+            "iconsize": "2",
+            "color": "#FDFDFD",
+            "iconlogo": "fa-brands fa-whatsapp"
+        },
+        "displayName": "Icon",
+        "custom": {},
+        "parent": "Tm1afBusZ5",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "oGemW1nHpw": {
+        "type": {
+            "resolvedName": "Icon"
+        },
+        "isCanvas": false,
+        "props": {
+            "iconsize": "2",
+            "color": "#FDFDFD",
+            "iconlogo": "fa-brands fa-twitter"
+        },
+        "displayName": "Icon",
+        "custom": {},
+        "parent": "Tm1afBusZ5",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "U6GiPSdhQB": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffff",
+            "padding": 0,
+            "width": "100",
+            "box": "flex-col",
+            "alignItems": "center",
+            "justifyContent": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "WjyG5qgdz7",
+            "ZWv3K_TtEL",
+            "t9cgdxk6Al",
+            "FFfyCi3sjf"
+        ],
+        "linkedNodes": {}
+    },
+    "WjyG5qgdz7": {
+        "type": {
+            "resolvedName": "Icon"
+        },
+        "isCanvas": false,
+        "props": {
+            "iconsize": "2",
+            "color": "#FDFDFD",
+            "iconlogo": "fa-solid fa-quote-left"
+        },
+        "displayName": "Icon",
+        "custom": {},
+        "parent": "U6GiPSdhQB",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "ZWv3K_TtEL": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "https://cdn.pixabay.com/photo/2020/07/01/12/58/icon-5359553_1280.png",
+            "upload": "",
+            "alt": "Image",
+            "href": "#",
+            "objectType": "cover",
+            "width": 100,
+            "height": 80,
+            "radius": 100
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "U6GiPSdhQB",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "t9cgdxk6Al": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "fontSize": 10,
+            "fontAlign": "center",
+            "text": "Author : Name",
+            "data-cy": "frame-container-text"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "U6GiPSdhQB",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "FFfyCi3sjf": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "fontSize": 14,
+            "fontAlign": "center",
+            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "data-cy": "frame-container-text"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "U6GiPSdhQB",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    }
+}
