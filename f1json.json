@@ -1,0 +1,1501 @@
+{
+    "ROOT": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "data-cy": "root-container",
+            "height": "auto",
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 0,
+            "marginBottom": 0,
+            "gap": 5
+        },
+        "displayName": "Container",
+        "custom": {},
+        "hidden": false,
+        "nodes": [
+            "_IPLtdZp4A",
+            "cMmqxir5cn",
+            "oDgUsqtihh",
+            "cBQr4Fki7_",
+            "EOwqu6c0GN"
+        ],
+        "linkedNodes": {}
+    },
+    "BoXP0hZ9al": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "rgba(0, 48, 91, 0.68)",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": 40,
+            "height": "740px",
+            "justifyContent": "center",
+            "alignItems": "start"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "_IPLtdZp4A",
+        "hidden": false,
+        "nodes": [
+            "vQ3pIDlDyw",
+            "BqMhQ7Zgip"
+        ],
+        "linkedNodes": {}
+    },
+    "vQ3pIDlDyw": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<div><br></div><div><span class=\"color_11 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; color: rgb(var(--color_11)); font-family: raleway, sans-serif; font-size: 42px;\"><span class=\"wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; font-weight: bold;\"><span class=\"wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline;\"><span class=\"wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; letter-spacing: 0.05em;\">BOUTIQUE</span></span></span></span><br class=\"wixui-rich-text__text\" style=\"color: rgb(0, 48, 91); font-family: raleway, sans-serif; font-size: 42px;\"><span class=\"color_11 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; color: rgb(var(--color_11)); font-family: raleway, sans-serif; font-size: 42px;\"><span class=\"wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; letter-spacing: 0.05em;\">LAW FIRM</span></span><br></div>",
+            "color": "#ffffff",
+            "fontAlign": "left",
+            "marginLeft": 15
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "BoXP0hZ9al",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "BqMhQ7Zgip": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<span style=\"color: rgb(255, 255, 255); font-family: &quot;open sans&quot;, sans-serif; font-size: 18px;\">Specializing in Commercial Law &amp; Litigation, Insolvency &amp; Fraud</span>",
+            "color": "#000000",
+            "marginLeft": 15
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "BoXP0hZ9al",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "_IPLtdZp4A": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "url(https://images.unsplash.com/photo-1640765576186-00bc6cea839d?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "height": "auto",
+            "backgroundRepeat": "no-repeat",
+            "backgroundSize": "cover"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "BoXP0hZ9al"
+        ],
+        "linkedNodes": {}
+    },
+    "cMmqxir5cn": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "box": "flex-row",
+            "height": "auto"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "Eu-lWpBDHM",
+            "CXkzwig5a6"
+        ],
+        "linkedNodes": {}
+    },
+    "Eu-lWpBDHM": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#eaf4f6",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": 40,
+            "height": "530px",
+            "backgroundRepeat": "repeat"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "cMmqxir5cn",
+        "hidden": false,
+        "nodes": [
+            "VMpVDZaqTc"
+        ],
+        "linkedNodes": {}
+    },
+    "VMpVDZaqTc": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<div><br></div><div><span class=\"wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; color: rgb(0, 48, 91); font-family: raleway, sans-serif; font-size: 42px; font-weight: bold;\">PRACTICE</span><br class=\"wixui-rich-text__text\" style=\"color: rgb(0, 48, 91); font-family: raleway, sans-serif; font-size: 42px;\"><span style=\"color: rgb(0, 48, 91); font-family: raleway, sans-serif; font-size: 42px;\">AREAS</span><br></div>",
+            "color": "#000000",
+            "marginLeft": 15
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "Eu-lWpBDHM",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "CXkzwig5a6": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": 60,
+            "box": "flex-row"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "cMmqxir5cn",
+        "hidden": false,
+        "nodes": [
+            "ToOWEyVFma",
+            "iwoW58lSJe"
+        ],
+        "linkedNodes": {}
+    },
+    "ToOWEyVFma": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "justifyContent": "space-evenly"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "CXkzwig5a6",
+        "hidden": false,
+        "nodes": [
+            "y7CYHYiwxW",
+            "D_-eehkkCS",
+            "Oka8ZSSsUk"
+        ],
+        "linkedNodes": {}
+    },
+    "iwoW58lSJe": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "height": "auto",
+            "justifyContent": "space-evenly"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "CXkzwig5a6",
+        "hidden": false,
+        "nodes": [
+            "LPDJUdsLln",
+            "6equq-Olxf",
+            "JZZmWKp4Jy"
+        ],
+        "linkedNodes": {}
+    },
+    "y7CYHYiwxW": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 20,
+            "paddingTop": 20,
+            "width": "100",
+            "box": "flex-col"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ToOWEyVFma",
+        "hidden": false,
+        "nodes": [
+            "jCUGC0pNWf",
+            "ulSZBhunsA"
+        ],
+        "linkedNodes": {}
+    },
+    "D_-eehkkCS": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 20,
+            "paddingTop": 20,
+            "width": "100"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ToOWEyVFma",
+        "hidden": false,
+        "nodes": [
+            "2xAahMwPKd",
+            "6rPzv1Iy_g"
+        ],
+        "linkedNodes": {}
+    },
+    "Oka8ZSSsUk": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 20,
+            "paddingTop": 20,
+            "width": "100"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ToOWEyVFma",
+        "hidden": false,
+        "nodes": [
+            "92uknxIHYE",
+            "MTPKllFV47"
+        ],
+        "linkedNodes": {}
+    },
+    "oe4bvKgLAP": {
+        "type": {
+            "resolvedName": "Icon"
+        },
+        "isCanvas": false,
+        "props": {
+            "iconsize": 1,
+            "color": "#FDFDFD",
+            "iconlogo": "fas fa-square",
+            "iconColor": "#41b7c4",
+            "marginLeft": 0,
+            "marginRight": 10,
+            "marginTop": 0,
+            "marginBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0
+        },
+        "displayName": "Icon",
+        "custom": {},
+        "parent": "jCUGC0pNWf",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "tAhAhI8qqX": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<h3 class=\"font_6 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; pointer-events: auto; font-size: 20px; line-height: normal; color: rgb(var(--color_20)); margin-block: 0px;\">LITIGATION</h3>",
+            "color": "#67849d"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "jCUGC0pNWf",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "jCUGC0pNWf": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "box": "flex-row"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "y7CYHYiwxW",
+        "hidden": false,
+        "nodes": [
+            "oe4bvKgLAP",
+            "tAhAhI8qqX"
+        ],
+        "linkedNodes": {}
+    },
+    "ulSZBhunsA": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<span style=\"color: rgb(15, 76, 133); font-family: &quot;open sans&quot;, sans-serif; font-size: 14px;\">I'm a paragraph. Click here to add your own text and edit me. It's easy.</span>",
+            "color": "#000000",
+            "marginLeft": 15,
+            "marginRight": 0,
+            "marginTop": 0,
+            "marginBottom": 0
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "y7CYHYiwxW",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "2xAahMwPKd": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "box": "flex-row"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "D_-eehkkCS",
+        "hidden": false,
+        "nodes": [
+            "AV3Gbk8LYu",
+            "bacJka1KKV"
+        ],
+        "linkedNodes": {}
+    },
+    "AV3Gbk8LYu": {
+        "type": {
+            "resolvedName": "Icon"
+        },
+        "isCanvas": false,
+        "props": {
+            "iconsize": 1,
+            "color": "#FDFDFD",
+            "iconlogo": "fas fa-square",
+            "iconColor": "#41b7c4",
+            "marginLeft": 0,
+            "marginRight": 10,
+            "marginTop": 0,
+            "marginBottom": 0
+        },
+        "displayName": "Icon",
+        "custom": {},
+        "parent": "2xAahMwPKd",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "bacJka1KKV": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<h3 class=\"font_6 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; pointer-events: auto; font-size: 20px; line-height: normal; color: rgb(var(--color_20)); margin-block: 0px;\">INSOLVENCY</h3>",
+            "color": "#476a89"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "2xAahMwPKd",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "6rPzv1Iy_g": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<span style=\"color: rgb(15, 76, 133); font-family: &quot;open sans&quot;, sans-serif; font-size: 14px;\">I'm a paragraph. Click here to add your own text and edit me. It's easy.</span>",
+            "color": "#000000",
+            "marginLeft": 15,
+            "marginRight": 0,
+            "marginTop": 0,
+            "marginBottom": 0
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "D_-eehkkCS",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "92uknxIHYE": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "box": "flex-row"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "Oka8ZSSsUk",
+        "hidden": false,
+        "nodes": [
+            "o2moI19yjC",
+            "F8p7VsCmct"
+        ],
+        "linkedNodes": {}
+    },
+    "F8p7VsCmct": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<h3 class=\"font_6 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; pointer-events: auto; font-size: 20px; line-height: normal; color: rgb(var(--color_20)); margin-block: 0px;\">DISPUTE RESOLUTION</h3>",
+            "color": "#2f5679"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "92uknxIHYE",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "o2moI19yjC": {
+        "type": {
+            "resolvedName": "Icon"
+        },
+        "isCanvas": false,
+        "props": {
+            "iconsize": 1,
+            "color": "#FDFDFD",
+            "iconlogo": "fas fa-square",
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "marginRight": 10,
+            "iconColor": "#41b7c4"
+        },
+        "displayName": "Icon",
+        "custom": {},
+        "parent": "92uknxIHYE",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "MTPKllFV47": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<span style=\"color: rgb(15, 76, 133); font-family: &quot;open sans&quot;, sans-serif; font-size: 14px;\">I'm a paragraph. Click here to add your own text and edit me. It's easy.</span>",
+            "color": "#000000",
+            "marginLeft": 15
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "Oka8ZSSsUk",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "LPDJUdsLln": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 20,
+            "paddingTop": 20,
+            "width": "100"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "iwoW58lSJe",
+        "hidden": false,
+        "nodes": [
+            "lhfhmtlgZ5",
+            "lx4t-jqrR4"
+        ],
+        "linkedNodes": {}
+    },
+    "6equq-Olxf": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 20,
+            "paddingTop": 20,
+            "width": "100"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "iwoW58lSJe",
+        "hidden": false,
+        "nodes": [
+            "udPkuyC7Qq",
+            "iDtT5VoF4V"
+        ],
+        "linkedNodes": {}
+    },
+    "JZZmWKp4Jy": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 20,
+            "paddingTop": 20,
+            "width": "100"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "iwoW58lSJe",
+        "hidden": false,
+        "nodes": [
+            "R8ZZ1CwvE2",
+            "JypI8i7bsU"
+        ],
+        "linkedNodes": {}
+    },
+    "lhfhmtlgZ5": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "box": "flex-row"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "LPDJUdsLln",
+        "hidden": false,
+        "nodes": [
+            "ulokr2nDLZ",
+            "KBYX1giyu9"
+        ],
+        "linkedNodes": {}
+    },
+    "KBYX1giyu9": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<h3 class=\"font_6 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; pointer-events: auto; font-size: 20px; line-height: normal; color: rgb(var(--color_20)); margin-block: 0px;\">BUSINESS</h3>",
+            "color": "#2f5679"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "lhfhmtlgZ5",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "ulokr2nDLZ": {
+        "type": {
+            "resolvedName": "Icon"
+        },
+        "isCanvas": false,
+        "props": {
+            "iconsize": 1,
+            "color": "#FDFDFD",
+            "iconlogo": "fas fa-square",
+            "iconColor": "#41b7c4",
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "marginRight": 10
+        },
+        "displayName": "Icon",
+        "custom": {},
+        "parent": "lhfhmtlgZ5",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "lx4t-jqrR4": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<span style=\"color: rgb(15, 76, 133); font-family: &quot;open sans&quot;, sans-serif; font-size: 14px;\">I'm a paragraph. Click here to add your own text and edit me. It's easy.</span>",
+            "color": "#000000",
+            "marginLeft": 15
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "LPDJUdsLln",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "udPkuyC7Qq": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "box": "flex-row"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "6equq-Olxf",
+        "hidden": false,
+        "nodes": [
+            "rvWD2uCg1s",
+            "ARetZoVRP9"
+        ],
+        "linkedNodes": {}
+    },
+    "ARetZoVRP9": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<h3 class=\"font_6 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; pointer-events: auto; font-size: 20px; line-height: normal; color: rgb(var(--color_20)); margin-block: 0px;\">FRAUD</h3>",
+            "color": "#175289"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "udPkuyC7Qq",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "rvWD2uCg1s": {
+        "type": {
+            "resolvedName": "Icon"
+        },
+        "isCanvas": false,
+        "props": {
+            "iconsize": 1,
+            "color": "#FDFDFD",
+            "iconlogo": "fas fa-square",
+            "iconColor": "#41b7c4",
+            "marginRight": 10
+        },
+        "displayName": "Icon",
+        "custom": {},
+        "parent": "udPkuyC7Qq",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "iDtT5VoF4V": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<span style=\"color: rgb(15, 76, 133); font-family: &quot;open sans&quot;, sans-serif; font-size: 14px;\">I'm a paragraph. Click here to add your own text and edit me. It's easy.</span>",
+            "color": "#000000",
+            "paddingLeft": 15
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "6equq-Olxf",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "R8ZZ1CwvE2": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#ffffff",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "box": "flex-row"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "JZZmWKp4Jy",
+        "hidden": false,
+        "nodes": [
+            "q5Dxyybkwx",
+            "O4TBmcuOGh"
+        ],
+        "linkedNodes": {}
+    },
+    "O4TBmcuOGh": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<h3 class=\"font_6 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; pointer-events: auto; font-size: 20px; line-height: normal; color: rgb(var(--color_20)); margin-block: 0px;\">TAX</h3>",
+            "color": "#00305b"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "R8ZZ1CwvE2",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "q5Dxyybkwx": {
+        "type": {
+            "resolvedName": "Icon"
+        },
+        "isCanvas": false,
+        "props": {
+            "iconsize": 1,
+            "color": "#FDFDFD",
+            "iconlogo": "fas fa-square",
+            "iconColor": "#41b7c4",
+            "marginRight": 10
+        },
+        "displayName": "Icon",
+        "custom": {},
+        "parent": "R8ZZ1CwvE2",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "JypI8i7bsU": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<span style=\"color: rgb(15, 76, 133); font-family: &quot;open sans&quot;, sans-serif; font-size: 14px;\">I'm a paragraph. Click here to add your own text and edit me. It's easy.</span>",
+            "color": "#000000",
+            "marginLeft": 15
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "JZZmWKp4Jy",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "oDgUsqtihh": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#00305b",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 30,
+            "paddingTop": 10,
+            "width": "100"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "EUjgE74IfD",
+            "1Ly54jh7UV"
+        ],
+        "linkedNodes": {}
+    },
+    "EUjgE74IfD": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#00305b",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": "100",
+            "marginTop": 30,
+            "marginBottom": 25
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "oDgUsqtihh",
+        "hidden": false,
+        "nodes": [
+            "S-aX8eVmUN"
+        ],
+        "linkedNodes": {}
+    },
+    "S-aX8eVmUN": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<h2 class=\"font_2 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; pointer-events: auto; font-size: 42px; line-height: normal; color: rgb(var(--color_20)); margin-block: 0px; text-align: center;\"><span class=\"color_11 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; color: rgb(var(--color_11));\">OUR&nbsp;</span><span class=\"wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline;\">VISION</span></h2>",
+            "color": "#ffffff"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "EUjgE74IfD",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "1Ly54jh7UV": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<p class=\"font_8 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; pointer-events: auto; font-size: 16px; line-height: 1.5em; color: rgb(var(--color_20)); margin-block: 0px; text-align: center;\"><span class=\"color_11 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; color: rgb(var(--color_11));\">I'm a paragraph. Click here to add your own text and edit me. It’s easy. Just click “Edit Text” or double click me to add your own content and make changes to the font. Feel free to drag and drop me anywhere you like on your page. I’m a great place for you to tell a story and let your users know a little more about you.</span></p><p class=\"font_8 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; pointer-events: auto; font-size: 16px; line-height: 1.5em; color: rgb(var(--color_20)); margin-block: 0px; text-align: center;\"><span class=\"color_11 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; color: rgb(var(--color_11));\">​</span></p><p class=\"font_8 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; pointer-events: auto; font-size: 16px; line-height: 1.5em; color: rgb(var(--color_20)); margin-block: 0px; text-align: center;\"><span class=\"color_11 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; color: rgb(var(--color_11));\">This is a great space to write long text about your company and your services. You can use this space to go into a little more detail about your company. Talk about your team and what services you provide. Tell your visitors the story of how you came up with the idea for your business and what makes you different from your competitors. Make your company stand out and show your visitors who you are.</span><br class=\"wixui-rich-text__text\">&nbsp;</p><p class=\"font_8 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; pointer-events: auto; font-size: 16px; line-height: 1.5em; color: rgb(var(--color_20)); margin-block: 0px; text-align: center;\"><span class=\"color_11 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; color: rgb(var(--color_11));\">At Wix we’re passionate about making templates that allow you to build fabulous websites and it’s all thanks to the support and feedback from users like you! Keep up to date with New Releases and what’s Coming Soon in Wixellaneous in Support. Feel free to tell us what you think and give us feedback in the Wix Forum.</span></p>",
+            "color": "#ffffff"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "oDgUsqtihh",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "cBQr4Fki7_": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "url(https://static.wixstatic.com/media/5bfb6f_bb013bf1966340ceb9a576d68aa42273.jpg/v1/fill/w_980,h_771,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/5bfb6f_bb013bf1966340ceb9a576d68aa42273.jpg)",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": "100",
+            "backgroundSize": "cover",
+            "backgroundRepeat": "repeat",
+            "height": "740px"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "EOwqu6c0GN": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#eaf4f6",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 40,
+            "paddingTop": 40,
+            "width": "100",
+            "height": "auto"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "ROOT",
+        "hidden": false,
+        "nodes": [
+            "g_bqxPPsUx",
+            "uW6ibd5a7c"
+        ],
+        "linkedNodes": {}
+    },
+    "uW6ibd5a7c": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#eaf4f6",
+            "padding": 2,
+            "paddingLeft": 10,
+            "paddingRight": 10,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": "100",
+            "box": "flex-row",
+            "justifyContent": "space-evenly",
+            "marginTop": 20
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "EOwqu6c0GN",
+        "hidden": false,
+        "nodes": [
+            "fpMjyedviY",
+            "lm1sBduHeD",
+            "gXYF9HuL81"
+        ],
+        "linkedNodes": {}
+    },
+    "g_bqxPPsUx": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<h2 class=\"font_2 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; pointer-events: auto; font-size: 42px; line-height: normal; color: rgb(var(--color_20)); margin-block: 0px; text-align: center;\"><span class=\"color_20 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; color: rgb(var(--color_20));\">OUR&nbsp;<span class=\"wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline;\">ATTORNEYS</span></span></h2>",
+            "color": "#00305b",
+            "fontFamily": "Gill Sans Extrabold, sans-serif"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "EOwqu6c0GN",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "fpMjyedviY": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#eaf4f6",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": 60,
+            "justifyContent": "center",
+            "alignItems": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "uW6ibd5a7c",
+        "hidden": false,
+        "nodes": [
+            "cs0fmR2CuM",
+            "RhyLJ3kJYG",
+            "LDhhMcCiPh"
+        ],
+        "linkedNodes": {}
+    },
+    "gXYF9HuL81": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#eaf4f6",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": 60,
+            "justifyContent": "center",
+            "alignItems": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "uW6ibd5a7c",
+        "hidden": false,
+        "nodes": [
+            "fYFKujrFya",
+            "1B-5-4EF1z",
+            "4fr1_eJZh6"
+        ],
+        "linkedNodes": {}
+    },
+    "lm1sBduHeD": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#eaf4f6",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 0,
+            "paddingTop": 0,
+            "width": 60,
+            "justifyContent": "center",
+            "alignItems": "center"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "uW6ibd5a7c",
+        "hidden": false,
+        "nodes": [
+            "6NxA8_Ya2N",
+            "oFGtc8ToCG",
+            "OF44pmruik"
+        ],
+        "linkedNodes": {}
+    },
+    "LDhhMcCiPh": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#eaf4f6",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": 60,
+            "justifyContent": "center",
+            "alignItems": "center",
+            "borderTop": 1,
+            "borderColor": "#00305b",
+            "borderStyle": "solid"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "fpMjyedviY",
+        "hidden": false,
+        "nodes": [
+            "iubT40btuX",
+            "RUeSIfHbd_"
+        ],
+        "linkedNodes": {}
+    },
+    "cs0fmR2CuM": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "https://static.wixstatic.com/media/5bfb6f_5577b01919214f47ad5236247965ec04.jpg/v1/fill/w_193,h_220,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/5bfb6f_5577b01919214f47ad5236247965ec04.jpg",
+            "upload": "",
+            "alt": "image",
+            "href": "#",
+            "objectType": "contain",
+            "width": "100",
+            "height": "200"
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "fpMjyedviY",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "OF44pmruik": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#eaf4f6",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": 60,
+            "justifyContent": "center",
+            "alignItems": "center",
+            "borderStyle": "solid",
+            "borderColor": "#00305b",
+            "borderTop": 1
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "lm1sBduHeD",
+        "hidden": false,
+        "nodes": [
+            "QvUrrVInGS",
+            "8mS63gWnRd"
+        ],
+        "linkedNodes": {}
+    },
+    "6NxA8_Ya2N": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "https://static.wixstatic.com/media/5bfb6f_60ff20475dbc447f92c81fdcc6a6a7c1.jpg/v1/fill/w_193,h_220,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/5bfb6f_60ff20475dbc447f92c81fdcc6a6a7c1.jpg",
+            "upload": "",
+            "alt": "image",
+            "href": "#",
+            "objectType": "contain",
+            "width": "100",
+            "height": "200"
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "lm1sBduHeD",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "4fr1_eJZh6": {
+        "type": {
+            "resolvedName": "Container"
+        },
+        "isCanvas": true,
+        "props": {
+            "background": "#eaf4f6",
+            "padding": 2,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingBottom": 10,
+            "paddingTop": 10,
+            "width": 60,
+            "justifyContent": "center",
+            "alignItems": "center",
+            "borderTop": 1,
+            "borderColor": "#00305b",
+            "borderStyle": "solid"
+        },
+        "displayName": "Container",
+        "custom": {},
+        "parent": "gXYF9HuL81",
+        "hidden": false,
+        "nodes": [
+            "KexDTo1JFy",
+            "ItO3C-CWAj"
+        ],
+        "linkedNodes": {}
+    },
+    "fYFKujrFya": {
+        "type": {
+            "resolvedName": "Images"
+        },
+        "isCanvas": false,
+        "props": {
+            "src": "https://static.wixstatic.com/media/5bfb6f_1cafad56984b4997bd73792b008c6fc3.jpg/v1/fill/w_193,h_220,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/5bfb6f_1cafad56984b4997bd73792b008c6fc3.jpg",
+            "upload": "",
+            "alt": "image",
+            "href": "#",
+            "objectType": "contain",
+            "width": "100",
+            "height": "200"
+        },
+        "displayName": "Images",
+        "custom": {},
+        "parent": "gXYF9HuL81",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "RhyLJ3kJYG": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<div><div id=\"comp-ifwg376j\" class=\"BaOVQ8 tz5f0K comp-ifwg376j wixui-rich-text\" data-testid=\"richTextElement\" data-angle=\"0\" data-angle-style-location=\"style\" data-screen-in-hide=\"done\" style=\"border-style: initial; border-color: initial; border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-left: calc(50% - 490px); text-align: start; background: transparent; outline: 0px; vertical-align: baseline; pointer-events: none; direction: var(--text-direction); min-height: var(--min-height); min-width: var(--min-width); position: relative; left: 395px; grid-area: 4 / 1 / 5 / 2; place-self: start; width: 189px; height: auto; font-family: Arial, Helvetica, sans-serif; font-size: 10px; visibility: inherit;\"><h3 class=\"font_6 wixui-rich-text__text\" style=\"border-style: initial; border-color: initial; border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-size: 20px; background: transparent; outline: 0px; vertical-align: baseline; pointer-events: auto; line-height: normal; color: rgb(var(--color_20)); margin-block: 0px; text-align: center;\"><span style=\"letter-spacing: 0.4px;\">AIDEN WALTERS</span></h3></div><div id=\"comp-kj6uwi6t\" class=\"BaOVQ8 tz5f0K comp-kj6uwi6t wixui-rich-text\" data-testid=\"richTextElement\" data-angle=\"0\" data-angle-style-location=\"style\" data-screen-in-hide=\"done\" style=\"border-style: initial; border-color: initial; border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-bottom: 18px; margin-left: calc(50% - 490px); text-align: start; background: transparent; outline: 0px; vertical-align: baseline; pointer-events: none; direction: var(--text-direction); min-height: var(--min-height); min-width: var(--min-width); position: relative; left: 393px; grid-area: 5 / 1 / 6 / 2; place-self: start; width: 193px; height: auto; font-family: Arial, Helvetica, sans-serif; font-size: 10px; visibility: inherit;\"><p class=\"font_6 wixui-rich-text__text\" style=\"border-style: initial; border-color: initial; border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-size: 20px; background: transparent; outline: 0px; vertical-align: baseline; pointer-events: auto; line-height: normal; color: rgb(var(--color_20)); margin-block: 0px; text-align: center;\"><span class=\"color_19 wixui-rich-text__text\" style=\"border-style: initial; border-color: initial; border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; background: transparent; outline: 0px; vertical-align: baseline; color: rgb(var(--color_19));\"><span class=\"wixui-rich-text__text\" style=\"border-style: initial; border-color: initial; border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; background: transparent; outline: 0px; vertical-align: baseline; font-size: 16px;\">PARTNER</span></span></p></div></div>",
+            "color": "#000000",
+            "fontAlign": "center",
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 0,
+            "marginBottom": 0
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "fpMjyedviY",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "oFGtc8ToCG": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<div id=\"comp-ifwg376j\" class=\"BaOVQ8 tz5f0K comp-ifwg376j wixui-rich-text\" data-testid=\"richTextElement\" data-angle=\"0\" data-angle-style-location=\"style\" data-screen-in-hide=\"done\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; margin-left: calc(50% - 490px); outline: 0px; vertical-align: baseline; pointer-events: none; direction: var(--text-direction); min-height: var(--min-height); min-width: var(--min-width); position: relative; left: 395px; grid-area: 4 / 1 / 5 / 2; place-self: start; width: 189px; height: auto; font-family: Arial, Helvetica, sans-serif; font-size: 10px; visibility: inherit;\"><h3 class=\"font_6 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; pointer-events: auto; font-size: 20px; line-height: normal; color: rgb(var(--color_20)); margin-block: 0px; text-align: center;\"><span class=\"wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; letter-spacing: 0.02em;\">JULIA KNOLL</span></h3></div><div id=\"comp-kj6uwi6t\" class=\"BaOVQ8 tz5f0K comp-kj6uwi6t wixui-rich-text\" data-testid=\"richTextElement\" data-angle=\"0\" data-angle-style-location=\"style\" data-screen-in-hide=\"done\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; margin-bottom: 18px; margin-left: calc(50% - 490px); outline: 0px; vertical-align: baseline; pointer-events: none; direction: var(--text-direction); min-height: var(--min-height); min-width: var(--min-width); position: relative; left: 393px; grid-area: 5 / 1 / 6 / 2; place-self: start; width: 193px; height: auto; font-family: Arial, Helvetica, sans-serif; font-size: 10px; visibility: inherit;\"><p class=\"font_6 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; pointer-events: auto; font-size: 20px; line-height: normal; color: rgb(var(--color_20)); margin-block: 0px; text-align: center;\"><span class=\"color_19 wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; color: rgb(var(--color_19));\"><span class=\"wixui-rich-text__text\" style=\"background: transparent; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; font-size: 16px;\">PARTNER</span></span></p></div>",
+            "color": "#000000",
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 0,
+            "marginBottom": 0
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "lm1sBduHeD",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "1B-5-4EF1z": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<div id=\"comp-ifwg376j\" class=\"BaOVQ8 tz5f0K comp-ifwg376j wixui-rich-text\" data-testid=\"richTextElement\" data-angle=\"0\" data-angle-style-location=\"style\" data-screen-in-hide=\"done\" style=\"border-style: initial; border-color: initial; border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-left: calc(50% - 490px); background: transparent; outline: 0px; vertical-align: baseline; pointer-events: none; direction: var(--text-direction); min-height: var(--min-height); min-width: var(--min-width); position: relative; left: 395px; grid-area: 4 / 1 / 5 / 2; place-self: start; width: 189px; height: auto; font-family: Arial, Helvetica, sans-serif; font-size: 10px; visibility: inherit;\"><h3 class=\"font_6 wixui-rich-text__text\" style=\"border-style: initial; border-color: initial; border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-size: 20px; background: transparent; outline: 0px; vertical-align: baseline; pointer-events: auto; line-height: normal; color: rgb(var(--color_20)); margin-block: 0px; text-align: center;\"><span class=\"wixui-rich-text__text\" style=\"border-style: initial; border-color: initial; border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; background: transparent; outline: 0px; vertical-align: baseline; letter-spacing: 0.02em;\">JAMES LOPEZ</span></h3></div><div id=\"comp-kj6uwi6t\" class=\"BaOVQ8 tz5f0K comp-kj6uwi6t wixui-rich-text\" data-testid=\"richTextElement\" data-angle=\"0\" data-angle-style-location=\"style\" data-screen-in-hide=\"done\" style=\"border-style: initial; border-color: initial; border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-bottom: 18px; margin-left: calc(50% - 490px); background: transparent; outline: 0px; vertical-align: baseline; pointer-events: none; direction: var(--text-direction); min-height: var(--min-height); min-width: var(--min-width); position: relative; left: 393px; grid-area: 5 / 1 / 6 / 2; place-self: start; width: 193px; height: auto; font-family: Arial, Helvetica, sans-serif; font-size: 10px; visibility: inherit;\"><p class=\"font_6 wixui-rich-text__text\" style=\"border-style: initial; border-color: initial; border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; font-size: 20px; background: transparent; outline: 0px; vertical-align: baseline; pointer-events: auto; line-height: normal; color: rgb(var(--color_20)); margin-block: 0px; text-align: center;\"><span class=\"color_19 wixui-rich-text__text\" style=\"border-style: initial; border-color: initial; border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; background: transparent; outline: 0px; vertical-align: baseline; color: rgb(var(--color_19));\"><span class=\"wixui-rich-text__text\" style=\"border-style: initial; border-color: initial; border-image: initial; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / 0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; background: transparent; outline: 0px; vertical-align: baseline; font-size: 16px;\">PARTNER</span></span></p></div>",
+            "color": "#000000",
+            "marginLeft": 0,
+            "marginRight": 0,
+            "marginTop": 0,
+            "marginBottom": 0,
+            "paddingLeft": 0,
+            "paddingRight": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "gXYF9HuL81",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "iubT40btuX": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<span style=\"color: rgb(0, 48, 91); font-family: &quot;open sans&quot;, sans-serif; font-size: 16px; text-align: center;\">Tel: 123-456-7890</span>",
+            "color": "#000000"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "LDhhMcCiPh",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "QvUrrVInGS": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<span style=\"color: rgb(0, 48, 91); font-family: &quot;open sans&quot;, sans-serif; font-size: 16px; text-align: center;\">Tel: 123-456-7890</span>",
+            "color": "#000000"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "OF44pmruik",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "KexDTo1JFy": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<span style=\"color: rgb(0, 48, 91); font-family: &quot;open sans&quot;, sans-serif; font-size: 16px; text-align: center;\">Tel: 123-456-7890</span>",
+            "color": "#000000"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "4fr1_eJZh6",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "8mS63gWnRd": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<a data-auto-recognition=\"true\" href=\"mailto:info@mysite.com\" class=\"wixui-rich-text__text\" style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; cursor: pointer; text-decoration: none; font-family: &quot;open sans&quot;, sans-serif; font-size: 16px; text-align: center;\">info@mysite.com</a>",
+            "color": "#00305b"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "OF44pmruik",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "RUeSIfHbd_": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<a data-auto-recognition=\"true\" href=\"mailto:info@mysite.com\" class=\"wixui-rich-text__text\" style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; cursor: pointer; text-decoration: none; font-family: &quot;open sans&quot;, sans-serif; font-size: 16px; text-align: center;\">info@mysite.com</a>",
+            "color": "#00305b"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "LDhhMcCiPh",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    },
+    "ItO3C-CWAj": {
+        "type": {
+            "resolvedName": "Text"
+        },
+        "isCanvas": false,
+        "props": {
+            "backgroundclip": "Hi",
+            "text": "<a data-auto-recognition=\"true\" href=\"mailto:info@mysite.com\" class=\"wixui-rich-text__text\" style=\"background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-clip: initial; border-style: initial; border-color: initial; border-image: initial; outline: 0px; vertical-align: baseline; cursor: pointer; text-decoration: none; font-family: &quot;open sans&quot;, sans-serif; font-size: 16px; text-align: center;\">info@mysite.com</a>",
+            "color": "#00305b"
+        },
+        "displayName": "Text",
+        "custom": {},
+        "parent": "4fr1_eJZh6",
+        "hidden": false,
+        "nodes": [],
+        "linkedNodes": {}
+    }
+}

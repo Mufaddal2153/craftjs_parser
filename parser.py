@@ -20,9 +20,24 @@ from mappings import html_to_json_mapping
 #     html_file.write(html_response.text)
 
 data = html_to_json_mapping("test.html")
+craft_js = {}
 
-craftjs = {}
+def traverse_data(node, parent="null"):
+    global craft_js
+    craft_js[node["id"]] = {
+        "type": {
+            "resolvedName": node["type"],
+        },
+        "isCanvas": True,
+        "props": node["attrs"],
+        "displayName": node["id"],
+        "custom": {},
+        "parent": parent,
+        "hidden": False,
+        "nodes": [traverse_data(child, node['id'])['displayName'] for child in node["children"] if traverse_data(child, node['id'])],
+        "linkedNodes": {}
+    }
+    return craft_js[node["id"]]
 
-# for i, j in data.items():
-#     if i == "children":
-        
+traverse_data(data)
+print(json.dumps(craft_js, indent=4))

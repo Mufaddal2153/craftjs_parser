@@ -1,0 +1,40 @@
+{
+    "html": {
+        "@lang": "en",
+        "head": {
+            "meta": [
+                {
+                    "@charset": "utf-8"
+                },
+                {
+                    "@content": "width=device-width, initial-scale=1.0",
+                    "@name": "viewport"
+                }
+            ],
+            "title": "Document"
+        },
+        "body": {
+            "@class": "home page-template-default page page-id-611 wp-custom-logo",
+            "div": [
+                {
+                    "@class": "first",
+                    "@id": "first",
+                    "h1": "First heading h1",
+                    "h2": "First heading h2"
+                },
+                {
+                    "@class": "second",
+                    "@id": "second",
+                    "h1": "Second heading h1",
+                    "h2": "Second heading h2"
+                },
+                {
+                    "@class": "third",
+                    "@id": "third",
+                    "h1": "Third heading h1",
+                    "h2": "Third heading h2"
+                }
+            ]
+        }
+    }
+}
